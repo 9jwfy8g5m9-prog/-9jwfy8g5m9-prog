@@ -15,7 +15,7 @@ Withdrawal credentials
 Withdrawal credentials type
 0x02 - Execution address with compounding funds
 Execution address
-0xE6D23a0504C51C495a24cA6874E838AFaf6C0ed0
+0xfa96e2167a154c8fd54e62dcc6111d33a2fc23da
 Funding wallet address
 0xE6D23a0504C51C495a24cA6874E838AFaf6C0ed0
 
